@@ -1,0 +1,81 @@
+#Principal{
+    margin:  0 auto;
+width: 600px;
+background-color: black;
+}
+#Principal2{
+    margin:  0 auto;
+width: 600px;
+
+}
+#img1{
+   width: 600px;
+
+   
+  
+}
+
+#h1{
+    
+    width: 439px;
+
+    
+ 
+    margin-left: 60px;
+    margin-right: 101px;
+    font-family:Helvetica;
+    color: #00A857;  
+}
+#p0{
+    margin-left: 60px;
+    color: white;
+}
+#p1{
+    width: 453px;
+    height: 71px;
+    font-family:Helvetica;
+    margin-left: 60px;
+    margin-right: 101px;
+
+}
+#img2{
+    width: 56px;
+    height: 56px;
+    margin-left: 60px;
+    margin-right: 484px;
+}
+
+#p2{
+width: 317px;
+height: 23px;
+vertical-align: auto;
+color: white;
+}
+#img3{
+    width: 600px;
+    height: 131px;
+}
+#img4{
+    width: 600px;
+    height: 576px;
+}
+#img5{
+    width: 600px;
+    
+}
+#img6{
+    width: 540px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;  
+}
+#BancoOriginal{
+        width: 185px;
+        height: 40px;
+        margin-left: 63px;
+        margin-right: 352px;
+        color: #00A857;
+}
+p{
+    color: white;
+}
